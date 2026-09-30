@@ -1,0 +1,21 @@
+inventory_id,product_id,warehouse_location,stock_on_hand,reserved_stock,available_stock,reorder_point,days_of_supply,inventory_turnover,stock_status,last_restock_date
+INV-PROD-001,PROD-001,East Regional Hub,149,17,131,40,10.7,76.63,Potential Stockout,2026-02-21 00:00:00
+INV-PROD-002,PROD-002,South Regional Hub,295,35,259,25,32.3,25.37,Stable,2026-03-06 00:00:00
+INV-PROD-003,PROD-003,East Regional Hub,210,25,184,50,18.0,45.51,Stable,2026-03-23 00:00:00
+INV-PROD-004,PROD-004,East Regional Hub,19,2,16,60,1.1,748.16,Potential Stockout,2026-03-02 00:00:00
+INV-PROD-005,PROD-005,South Regional Hub,152,18,133,100,22.5,36.42,Stable,2026-03-13 00:00:00
+INV-PROD-006,PROD-006,North Regional Hub,22,2,19,20,1.7,469.36,Potential Stockout,2026-03-15 00:00:00
+INV-PROD-007,PROD-007,Central Regional Hub,229,27,201,15,28.7,28.6,Stable,2026-03-13 00:00:00
+INV-PROD-008,PROD-008,Central Regional Hub,15,1,13,30,2.6,315.0,Potential Stockout,2026-02-20 00:00:00
+INV-PROD-009,PROD-009,East Regional Hub,142,17,124,80,30.5,26.87,Stable,2026-02-14 00:00:00
+INV-PROD-010,PROD-010,West Regional Hub,289,34,254,35,41.5,19.78,Stable,2026-02-22 00:00:00
+INV-PROD-011,PROD-011,West Regional Hub,26,3,22,20,4.5,181.15,Potential Stockout,2026-02-24 00:00:00
+INV-PROD-012,PROD-012,East Regional Hub,28,3,24,15,6.1,134.64,Potential Stockout,2026-02-18 00:00:00
+INV-PROD-013,PROD-013,South Regional Hub,25,3,22,120,7.2,113.24,Potential Stockout,2026-02-14 00:00:00
+INV-PROD-014,PROD-014,South Regional Hub,22,2,19,40,2.1,385.23,Potential Stockout,2026-03-27 00:00:00
+INV-PROD-015,PROD-015,North Regional Hub,205,24,180,25,29.6,27.7,Stable,2026-02-27 00:00:00
+INV-PROD-016,PROD-016,Central Regional Hub,172,20,151,45,30.6,26.78,Stable,2026-02-25 00:00:00
+INV-PROD-017,PROD-017,Central Regional Hub,237,28,208,15,51.9,15.81,Stable,2026-03-17 00:00:00
+INV-PROD-018,PROD-018,West Regional Hub,107,12,94,12,31.7,25.88,Stable,2026-02-16 00:00:00
+INV-PROD-019,PROD-019,Central Regional Hub,17,2,14,20,3.0,273.24,Potential Stockout,2026-03-21 00:00:00
+INV-PROD-020,PROD-020,West Regional Hub,39,4,34,90,8.9,92.41,Potential Stockout,2026-03-18 00:00:00

@@ -1,0 +1,21 @@
+product_id,sku,name,category,subcategory,unit_price,cost_price,margin_pct,stock_quantity,reorder_level,safety_stock,portfolio_quadrant,status
+PROD-001,ELEC-1001,PulseWave Pro ANC Headphones,Electronics,Audio,249.99,115.0,54.0,104,40,28,High Revenue / High Margin,Active
+PROD-002,ELEC-1002,"Quantum 4K Ultra OLED Monitor 32""",Electronics,Displays,699.99,420.0,40.0,113,25,17,High Revenue / High Margin,Active
+PROD-003,ELEC-1003,ThunderBolt Multi-Port Docking Hub,Electronics,Accessories,129.99,78.0,40.0,272,50,35,High Revenue / Low Margin,Active
+PROD-004,ELEC-1004,AeroCharge Mag-Wireless Fast Pad,Electronics,Accessories,49.99,18.0,63.99,350,60,42,Low Revenue / High Margin,Active
+PROD-005,ELEC-1005,Legacy MicroUSB Cable 2M Bulk,Electronics,Accessories,12.99,9.5,26.87,108,100,70,Low Revenue / Low Margin,Active
+PROD-006,OFFC-2001,ErgoFlex Carbon Mesh Executive Chair,Office & Furniture,Chairs,489.99,230.0,53.06,393,20,14,High Revenue / High Margin,Active
+PROD-007,OFFC-2002,Apex Dual-Motor Electric Standing Desk,Office & Furniture,Desks,599.99,380.0,36.67,411,15,10,High Revenue / Low Margin,Active
+PROD-008,OFFC-2003,Acoustic Noise-Dampening Desk Partition,Office & Furniture,Acoustics,159.99,65.0,59.37,222,30,21,Low Revenue / High Margin,Active
+PROD-009,OFFC-2004,Standard Wire Mesh Desk Organizers,Office & Furniture,Storage,24.99,18.0,27.97,121,80,56,Low Revenue / Low Margin,Active
+PROD-010,IND-3001,SensAir IoT Multi-Zone Facility Sensor,Industrial IoT,Sensors,320.0,140.0,56.25,230,35,24,High Revenue / High Margin,Active
+PROD-011,IND-3002,Ruggedized 2D Barcode Logistics Scanner,Industrial IoT,Handhelds,450.0,290.0,35.56,402,20,14,High Revenue / Low Margin,Active
+PROD-012,IND-3003,Thermal Label Industrial Printer 300DPI,Industrial IoT,Printers,540.0,260.0,51.85,390,15,10,Low Revenue / High Margin,Active
+PROD-013,IND-3004,Standard Thermal Transfer Ribbon Pack,Industrial IoT,Consumables,35.0,28.0,20.0,117,120,84,Low Revenue / Low Margin,Active
+PROD-014,HLTH-4001,LumiGlow Smart Circadian Desk Lamp,Health & Lighting,Lighting,139.99,52.0,62.85,457,40,28,High Revenue / High Margin,Active
+PROD-015,HLTH-4002,ActivePosture Balance Core Stool,Health & Lighting,Ergonomics,199.99,95.0,52.5,244,25,17,Low Revenue / High Margin,Active
+PROD-016,HLTH-4003,Anti-Fatigue Gel Floor Mat 36x24,Health & Lighting,Ergonomics,79.99,55.0,31.24,107,45,31,Low Revenue / Low Margin,Active
+PROD-017,SEC-5001,GateKeeper RFID Access Controller,Facilities & Security,Access Control,750.0,340.0,54.67,312,15,10,High Revenue / High Margin,Active
+PROD-018,SEC-5002,UltraCam 360 AI Facility Surveillance,Facilities & Security,Surveillance,890.0,560.0,37.08,288,12,8,High Revenue / Low Margin,Active
+PROD-019,SEC-5003,Backup Smart Battery Station 1500VA,Facilities & Security,Power,310.0,160.0,48.39,476,20,14,Low Revenue / High Margin,Active
+PROD-020,SEC-5004,NFC Key Fob Bulk Pack (100 pcs),Facilities & Security,Access Control,65.0,52.0,20.0,170,90,62,Low Revenue / Low Margin,Active

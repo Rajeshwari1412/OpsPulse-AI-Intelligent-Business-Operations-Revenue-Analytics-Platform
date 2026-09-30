@@ -1,0 +1,7 @@
+campaign_id,name,channel,target_region,start_date,end_date,budget,spend,impressions,clicks,conversions,attributed_revenue,roas,cac
+CMP-001,Q1 Performance Search Scale,Google Search,North,2024-01-15 00:00:00,2026-03-31 23:59:59,45000,43200,617125,24685,1184,248396.22,5.75,36.49
+CMP-002,Social Video Enterprise Retargeting,Meta Ads,West,2024-01-15 00:00:00,2026-03-31 23:59:59,38000,37100,639650,25586,972,218175.57,5.88,38.17
+CMP-003,B2B Decision Maker Outreach,LinkedIn Ads,Central,2024-01-15 00:00:00,2026-03-31 23:59:59,55000,54200,282275,11291,700,146184.63,2.7,77.43
+CMP-004,Omnichannel Lifecycle Email Funnel,Email Marketing,South,2024-01-15 00:00:00,2026-03-31 23:59:59,12000,11800,842850,33714,3202,631439.94,53.51,3.69
+CMP-005,Regional Tech Partner Co-Op,Affiliate Partners,East,2024-01-15 00:00:00,2026-03-31 23:59:59,28000,26900,320225,12809,653,151672.15,5.64,41.19
+CMP-006,Q4 Black Friday Mega Boost,Google Search,North,2024-01-15 00:00:00,2026-03-31 23:59:59,85000,84300,957950,38318,2873,573534.9,6.8,29.34
